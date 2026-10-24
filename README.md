@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💻 Elieser N. Tajanlangit
+# 💻 Jade mycho
 
 ### Full-Stack Developer | Problem Solver | Tech Enthusiast
 
